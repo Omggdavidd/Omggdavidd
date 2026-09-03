@@ -25,9 +25,8 @@
   </g>
   <rect x="64" y="51" width="72" height="7" rx="3.5" fill="url(#accent)"/>
   <text x="64" y="126" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="750" letter-spacing="-1.5">David Amaefula</text>
-  <text x="65" y="173" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500">Software Developer · Product Builder · Systems Thinker</text>
-  <text x="65" y="220" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Turning messy inputs into reliable, useful software.</text>
+  <text x="65" y="173" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500">Full-stack developer building reliable AI, data &amp; product systems.</text>
+  <text x="65" y="220" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">I like turning messy real-world problems into software people can trust.</text>
   <circle cx="67" cy="258" r="5" fill="#22c55e"/>
   <text x="82" y="264" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Guelph, Canada · Open to opportunities</text>
 </svg>
-
