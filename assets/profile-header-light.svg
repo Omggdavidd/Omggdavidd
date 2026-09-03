@@ -1,10 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">David Amaefula — Software Developer</title><desc id="desc">Full-stack developer building reliable AI, data, and product systems for messy real-world problems.</desc>
-  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#EEF2FF"/></linearGradient><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#7C3AED"/></linearGradient><radialGradient id="glow"><stop stop-color="#C4B5FD" stop-opacity=".65"/><stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/></radialGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" fill="none" stroke="#64748B" stroke-opacity=".08"/></pattern></defs>
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/><rect width="1200" height="360" rx="28" fill="url(#grid)"/><circle cx="1010" cy="180" r="260" fill="url(#glow)"/>
-  <rect x="60" y="42" width="332" height="32" rx="16" fill="#FFF" stroke="#CBD5E1"/><circle cx="79" cy="58" r="5" fill="#22C55E"/><text x="94" y="64" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">SOFTWARE DEVELOPER · AVAILABLE</text>
-  <text x="60" y="145" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="750" letter-spacing="-2">David Amaefula</text><rect x="60" y="168" width="80" height="6" rx="3" fill="url(#accent)"/>
-  <text x="60" y="220" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">I build reliable AI, data, and product systems</text><text x="60" y="253" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">for messy, real-world problems.</text>
-  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="650"><rect x="60" y="286" width="78" height="30" rx="8" fill="#DBEAFE"/><text x="77" y="306" fill="#1D4ED8">Python</text><rect x="148" y="286" width="98" height="30" rx="8" fill="#EDE9FE"/><text x="163" y="306" fill="#6D28D9">TypeScript</text><rect x="256" y="286" width="61" height="30" rx="8" fill="#FEF3C7"/><text x="274" y="306" fill="#92400E">AWS</text><rect x="327" y="286" width="104" height="30" rx="8" fill="#D1FAE5"/><text x="343" y="306" fill="#047857">PostgreSQL</text></g>
-  <g transform="translate(935 180)"><circle r="112" fill="#FFF" fill-opacity=".72" stroke="#FFF" stroke-width="10"/><circle r="92" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="8 9"/><path d="M-78-78 0-116 78-78 116 0 78 78 0 116-78 78-116 0Z" fill="none" stroke="#64748B" stroke-opacity=".25"/><text x="0" y="20" text-anchor="middle" fill="url(#accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="800" letter-spacing="-4">DA</text><g fill="#2563EB"><circle cy="-116" r="6"/><circle cx="116" r="6"/><circle cx="-78" cy="78" r="6"/></g></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">David Amaefula — Software Developer</title>
+  <desc id="desc">A modern blue and violet banner introducing David Amaefula as a software developer who builds reliable systems from messy inputs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#eef2ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="42"/></filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1050" cy="25" r="145" fill="#bfdbfe" opacity=".45" filter="url(#blur)"/>
+  <circle cx="1120" cy="260" r="130" fill="#ddd6fe" opacity=".6" filter="url(#blur)"/>
+  <g opacity=".55" stroke="#94a3b8" fill="none">
+    <path d="M925 62h80l40 40h80"/>
+    <path d="M955 235h70l32-32h92"/>
+    <circle cx="925" cy="62" r="5" fill="#2563eb" stroke="none"/>
+    <circle cx="1149" cy="203" r="5" fill="#7c3aed" stroke="none"/>
+    <rect x="1025" y="102" width="102" height="102" rx="18" stroke="#7c3aed" stroke-width="2"/>
+    <path d="m1065 135-18 18 18 18M1087 135l18 18-18 18" stroke="#2563eb" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="64" y="51" width="72" height="7" rx="3.5" fill="url(#accent)"/>
+  <text x="64" y="126" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="750" letter-spacing="-1.5">David Amaefula</text>
+  <text x="65" y="173" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500">Full-stack developer building reliable AI, data &amp; product systems.</text>
+  <text x="65" y="220" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">I like turning messy real-world problems into software people can trust.</text>
+  <circle cx="67" cy="258" r="5" fill="#22c55e"/>
+  <text x="82" y="264" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Guelph, Canada · Open to opportunities</text>
 </svg>
